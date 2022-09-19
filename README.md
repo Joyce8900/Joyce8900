@@ -1,7 +1,7 @@
 ### Olá!👋
 
 
-- 🌱atualmente estou aprendendo Python.
+- 🌱atualmente estou aprendendo Python e Javascript
 - 📫 Contate-me no email: joyce.santos.709@ufrn.edu.br
 - 😄Pronomes: ela/dela
 
