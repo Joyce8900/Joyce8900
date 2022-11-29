@@ -1,9 +1,9 @@
-### Olá!👋
+### Hi!👋
 
 
-- 🌱atualmente estou aprendendo Python e Javascript
-- 📫 Contate-me no email: joyce.santos.709@ufrn.edu.br
-- 😄Pronomes: ela/dela
+- 🌱I am currently learning Python and Javascript
+- 📫 Contact me via email: joyce.santos.709@ufrn.edu.br
+- 😄Pronouns: she/her
 
 
 
